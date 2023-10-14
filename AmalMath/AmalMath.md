@@ -9,6 +9,6 @@ android.permission.FOREGROUND_SERVICE
 
 At the moment, the app does **not** contain Ads and does **not** have inapp purchase options. This might change in future updates.
 
-Please note that altough the app itself does not collect any information, it is still possible that statistics about app crashes, downloads, updates, removals, etc. might be collected\processed (i.e., not by the app).
+Please note that although the app itself does not collect any information, it is still possible that statistics about app crashes, downloads, updates, removals, etc. might be collected\processed (i.e., not by the app).
 
 If you have any question, please send me an email to Aner_2005@hotmail.com or post a discussion on GitHub.
